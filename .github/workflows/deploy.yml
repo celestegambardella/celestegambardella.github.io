@@ -3,7 +3,7 @@ name: Deploy Astro site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - dev
   pull_request:
 
 jobs:
@@ -50,4 +50,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist  # Astro outputs the static site to the `public/` directory
+          publish_branch: prod  # default: gh-pages
