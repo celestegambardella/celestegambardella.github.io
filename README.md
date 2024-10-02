@@ -1,4 +1,6 @@
-# Astro Starter Kit: Portfolio
+# Celeste Gambardella: Portfolio
+
+`IN-PROGRESS`
 
 ```sh
 npm create astro@latest -- --template portfolio
