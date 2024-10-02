@@ -1,0 +1,40 @@
+name: Deploy Astro site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - test
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code from the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Node.js environment with the correct version
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: v22.9.0
+
+      # Step 3: Set BASE_PATH environment variable from GitHub Secrets
+      - name: Set BASE_PATH from GitHub Secret
+        run: echo "BASE_PATH=${{ secrets.BASE_PATH }}" >> $GITHUB_ENV
+
+      # Step 4: Install npm dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Step 5: Build the Astro site
+      - name: Build Astro site
+        run: npm run build
+
+      # Step 6: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist  # Astro outputs the static site to the `dist/` directory
