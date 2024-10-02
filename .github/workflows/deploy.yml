@@ -3,10 +3,7 @@ name: Deploy Astro site to GitHub Pages
 on:
   push:
     branches:
-      - main
-  pull_request:
-    branches:
-      - main  # or dev, if you want PRs to dev to trigger the workflow
+      - prod  # Trigger only when there's a push to prod (e.g., after PR merge)
 
 jobs:
   deploy:
