@@ -50,4 +50,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist  # Astro outputs the static site to the `dist/` directory
           publish_branch: prod  # default: gh-pages
