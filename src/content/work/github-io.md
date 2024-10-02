@@ -20,9 +20,9 @@ Personal project using <a href="https://astro.build/">Astro</a> framework for a 
 ### Framework
 - [Astro](https://github.com/withastro/astro)
 - GitHub Actions
-  - [actions/checkout@v3](https://github.com/actions/checkout/tree/v3/)
-  - [actions/setup-node@v3](https://github.com/actions/setup-node/tree/v3/)
-  - [peaceiris/actions-gh-pages@v3](https://github.com/peaceiris/actions-gh-pages/tree/v3/)
+  - [actions/checkout@v4](https://github.com/actions/checkout/tree/v4/)
+  - [actions/setup-node@v4](https://github.com/actions/setup-node/tree/v4/)
+  - [peaceiris/actions-gh-pages@v4.0.0](https://github.com/peaceiris/actions-gh-pages/tree/v4.0.0/)
 
 ---
 
