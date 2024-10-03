@@ -1,6 +1,6 @@
 ---
 title: Hausing Scraper
-publishDate: 2024-10-03 05:56:25
+publishDate: 2024-10-03 06:19:49
 img: /assets/stock-1.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
@@ -14,5 +14,5 @@ tags:
 ### [New] Apartments
 - **Martelaarsgracht 9-2, Amsterdam**: €2500/month - [View Property](https://www.hausing.com/properties-for-rent-amsterdam/martelaarsgracht-9-2-amsterdam)
 ---
-`Oct 03 2024 05:56`
+`Oct 03 2024 06:19`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
