@@ -29,3 +29,6 @@ pnpm-debug.log*
 
 # virtual environment
 .venv/
+
+# archive files
+.archive/
