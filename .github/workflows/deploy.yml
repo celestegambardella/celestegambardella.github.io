@@ -3,7 +3,7 @@ name: Deploy Astro site to GitHub Pages
 on:
   push:
     branches:
-      - test-workflow  # Trigger only when there's a push to prod (e.g., after PR merge)
+      - prod  # Trigger only when there's a push to prod (e.g., after PR merge)
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
