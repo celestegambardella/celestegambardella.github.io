@@ -3,7 +3,7 @@ name: Test Deploy Astro site to GitHub Pages
 on:
   push:
     branches:
-      - test  # Trigger only when there's a push to test
+      - test-workflow  # Trigger only when there's a push to test
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
