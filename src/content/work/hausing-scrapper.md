@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-10-05 13:12:23
+publishDate: 2024-10-05 13:12:44
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
