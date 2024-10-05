@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-10-05 02:44:10
+publishDate: 2024-10-05 04:09:57
 img: /assets/stock-1.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
@@ -19,5 +19,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Oct 05 2024 02:44`
+`Oct 05 2024 04:09`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
