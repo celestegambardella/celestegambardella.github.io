@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-10-08 13:08:45
+publishDate: 2024-10-08 14:18:08
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -11,7 +11,14 @@ tags:
   - Scripting
 ---
 
-## No New Listings Found
+### [New] Listings
+
+### Previously Found Listings
+#### Eerste van Swindenstraat 76-E, Amsterdam
+- €2600/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/eerste-van-swindenstraat-76-e-amsterdam)
+- [Google Maps](http://maps.google.com/?q=Eerste-van-Swindenstraat-76-E,-Amsterdam)
 
 ### Previously Found Listings
 #### Ter Haarstraat 18-2, Amsterdam
@@ -22,5 +29,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Oct 08 2024 13:08`
+`Oct 08 2024 14:18`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
