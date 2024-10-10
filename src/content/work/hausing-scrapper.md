@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-10-10 11:10:54
+publishDate: 2024-10-10 12:10:39
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -14,6 +14,11 @@ tags:
 ### [New] Listings
 
 ### Previously Found Listings
+#### Sarphatikade 6-4, Amsterdam
+- €2250/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/sarphatikade-6-4-amsterdam)
+- [Google Maps](http://maps.google.com/?q=Sarphatikade-6-4,-Amsterdam)
 #### Eerste van Swindenstraat 76-E, Amsterdam
 - €2600/month
 - Beds: 2
@@ -29,5 +34,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Oct 10 2024 11:10`
+`Oct 10 2024 12:10`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
