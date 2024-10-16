@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-10-16 09:10:25
+publishDate: 2024-10-16 10:13:47
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -14,11 +14,6 @@ tags:
 ### [New] Listings
 
 ### Previously Found Listings
-#### Delistraat 32-1, Amsterdam
-- €2600/month
-- Beds: 2
-- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/delistraat-32-1-amsterdam)
-- [Google Maps](http://maps.google.com/?q=Delistraat-32-1,-Amsterdam)
 #### Sarphatikade 6-4, Amsterdam
 - €2250/month
 - Beds: 2
@@ -39,5 +34,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Oct 16 2024 09:10`
+`Oct 16 2024 10:13`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
