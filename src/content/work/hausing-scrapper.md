@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-10-17 13:08:54
+publishDate: 2024-10-17 14:18:07
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -14,6 +14,11 @@ tags:
 ### [New] Listings
 
 ### Previously Found Listings
+#### Vertrekspoor 60, Assendelft
+- €1650/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/vertrekspoor-60-assendelft)
+- [Google Maps](http://maps.google.com/?q=Vertrekspoor-60,-Assendelft)
 #### Eerste van Swindenstraat 76-E, Amsterdam
 - €2600/month
 - Beds: 2
@@ -34,5 +39,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Oct 17 2024 13:08`
+`Oct 17 2024 14:18`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
