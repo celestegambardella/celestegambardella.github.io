@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-10-21 09:10:57
+publishDate: 2024-10-21 10:14:05
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -19,11 +19,6 @@ tags:
 - Beds: 2
 - [View Property](https://www.hausing.com/properties-for-rent-amsterdam/vertrekspoor-60-assendelft)
 - [Google Maps](http://maps.google.com/?q=Vertrekspoor-60,-Assendelft)
-#### Sarphatikade 6-4, Amsterdam
-- €2250/month
-- Beds: 2
-- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/sarphatikade-6-4-amsterdam)
-- [Google Maps](http://maps.google.com/?q=Sarphatikade-6-4,-Amsterdam)
 
 ### Previously Found Listings
 #### Ter Haarstraat 18-2, Amsterdam
@@ -34,5 +29,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Oct 21 2024 09:10`
+`Oct 21 2024 10:14`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
