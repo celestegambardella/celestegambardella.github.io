@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-10-24 09:10:08
+publishDate: 2024-10-24 10:13:33
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -11,14 +11,7 @@ tags:
   - Scripting
 ---
 
-### [New] Listings
-
-### Previously Found Listings
-#### Vertrekspoor 60, Assendelft
-- €1650/month
-- Beds: 2
-- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/vertrekspoor-60-assendelft)
-- [Google Maps](http://maps.google.com/?q=Vertrekspoor-60,-Assendelft)
+## No New Listings Found
 
 ### Previously Found Listings
 #### Ter Haarstraat 18-2, Amsterdam
@@ -29,5 +22,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Oct 24 2024 09:10`
+`Oct 24 2024 10:13`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
