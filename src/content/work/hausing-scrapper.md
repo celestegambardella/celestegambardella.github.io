@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-11-05 18:10:12
+publishDate: 2024-11-05 19:12:41
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -11,7 +11,14 @@ tags:
   - Scripting
 ---
 
-## No New Listings Found
+### [New] Listings
+
+### Previously Found Listings
+#### Niemeyerstraat 225, Hoofddorp
+- €2475/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/niemeyerstraat-225-hoofddorp)
+- [Google Maps](http://maps.google.com/?q=Niemeyerstraat-225,-Hoofddorp)
 
 ### Previously Found Listings
 #### Ter Haarstraat 18-2, Amsterdam
@@ -22,5 +29,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Nov 05 2024 18:10`
+`Nov 05 2024 19:12`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
