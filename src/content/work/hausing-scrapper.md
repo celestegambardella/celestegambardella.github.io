@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-11-07 12:08:28
+publishDate: 2024-11-07 13:17:35
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -14,6 +14,11 @@ tags:
 ### [New] Listings
 
 ### Previously Found Listings
+#### Grimbergenstraat 3, Amsterdam
+- €1975/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/grimbergenstraat-3-amsterdam)
+- [Google Maps](http://maps.google.com/?q=Grimbergenstraat-3,-Amsterdam)
 #### Niemeyerstraat 225, Hoofddorp
 - €2475/month
 - Beds: 2
@@ -29,5 +34,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Nov 07 2024 12:08`
+`Nov 07 2024 13:17`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
