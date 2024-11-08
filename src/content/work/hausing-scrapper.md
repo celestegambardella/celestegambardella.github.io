@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-11-08 17:11:26
+publishDate: 2024-11-08 18:08:18
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -14,6 +14,11 @@ tags:
 ### [New] Listings
 
 ### Previously Found Listings
+#### Silodam 338, Amsterdam
+- €2450/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/silodam-338-amsterdam)
+- [Google Maps](http://maps.google.com/?q=Silodam-338,-Amsterdam)
 #### Elisabeth Wolffstraat 78-4, Amsterdam
 - €2450/month
 - Beds: 2
@@ -39,5 +44,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Nov 08 2024 17:11`
+`Nov 08 2024 18:08`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
