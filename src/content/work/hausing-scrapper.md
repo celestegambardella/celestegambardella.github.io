@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-11-08 11:10:08
+publishDate: 2024-11-08 12:08:06
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -14,6 +14,11 @@ tags:
 ### [New] Listings
 
 ### Previously Found Listings
+#### Elisabeth Wolffstraat 78-4, Amsterdam
+- €2450/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/elisabeth-wolffstraat-78-4-amsterdam)
+- [Google Maps](http://maps.google.com/?q=Elisabeth-Wolffstraat-78-4,-Amsterdam)
 #### Grimbergenstraat 3, Amsterdam
 - €1975/month
 - Beds: 2
@@ -34,5 +39,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Nov 08 2024 11:10`
+`Nov 08 2024 12:08`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
