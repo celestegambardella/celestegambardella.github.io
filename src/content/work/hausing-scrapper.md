@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-11-14 22:09:27
+publishDate: 2024-11-14 23:09:41
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -14,6 +14,11 @@ tags:
 ### [New] Listings
 
 ### Previously Found Listings
+#### Johan Jongkindstraat 198, Amsterdam
+- €2500/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/johan-jongkindstraat-198-amsterdam)
+- [Google Maps](http://maps.google.com/?q=Johan-Jongkindstraat-198,-Amsterdam)
 #### Silodam 338, Amsterdam
 - €2450/month
 - Beds: 2
@@ -44,5 +49,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Nov 14 2024 22:09`
+`Nov 14 2024 23:09`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
