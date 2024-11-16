@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-11-16 03:15:44
+publishDate: 2024-11-16 04:20:47
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -49,5 +49,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Nov 16 2024 03:15`
+`Nov 16 2024 04:20`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
