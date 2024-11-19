@@ -1,6 +1,6 @@
 ---
 title: Housing Scraper
-publishDate: 2024-11-19 12:08:52
+publishDate: 2024-11-19 13:19:00
 img: /assets/stock-1.jpg
 img_alt: A collection of dutch houses
 description: |
@@ -14,6 +14,11 @@ tags:
 ### [New] Listings
 
 ### Previously Found Listings
+#### Eerste Helmersstraat, Amsterdam
+- €2500/month
+- Beds: 2
+- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/eerste-helmersstraat-amsterdam)
+- [Google Maps](http://maps.google.com/?q=Eerste-Helmersstraat,-Amsterdam)
 #### Johan Jongkindstraat
 - €2500/month
 - Beds: 2
@@ -29,11 +34,6 @@ tags:
 - Beds: 2
 - [View Property](https://www.hausing.com/properties-for-rent-amsterdam/elisabeth-wolffstraat)
 - [Google Maps](http://maps.google.com/?q=Elisabeth-Wolffstraat)
-#### Grimbergenstraat
-- €1975/month
-- Beds: 2
-- [View Property](https://www.hausing.com/properties-for-rent-amsterdam/grimbergenstraat)
-- [Google Maps](http://maps.google.com/?q=Grimbergenstraat)
 #### Silodam
 - €2450/month
 - Beds: 2
@@ -49,5 +49,5 @@ tags:
 ---
 ###### [`www.hausing.com`](https://www.hausing.com/properties-for-rent-amsterdam?sort-asc=price)
 
-`Nov 19 2024 12:08`
+`Nov 19 2024 13:19`
 ###### [Source Code](https://github.com/celestegambardella/hausing-scraper)
